@@ -14,9 +14,9 @@ pip install -m notebook
 
 # 2. Download the files
 
-You are invited to download the file : "standard_deterr.ipynb" in the model directory
+You are invited to download the file : "deterr_model.ipynb" in the model directory
 
 Write in your browser (chrome for example) : http://localhost:8888/
-then, you can search in your download directories (desktop local file) the file "standard_deterr.ipynb".
+then, you can search in your download directories (desktop local file) the file "deterr_model.ipynb".
 
 Once you have found the file, you can launch each code step by step in Jupyter notebook.
