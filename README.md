@@ -1,6 +1,6 @@
 # Optimal law enforcement with python
 Optimal Law Enforcement with python (deterrence model)\
-This project is designed to find the optimal sanction and the optimal probability of arrest and punishment in Nuno Garoupa's (2001) optimal law enforcement model. I use python code to find the optimal points ($S$, and $p$).
+This project is designed to find the optimal sanction and the optimal probability of arrest and punishment in [Garoupa's (2001)](https://doi.org/10.1016/S0014-2921(00)00084-2) optimal law enforcement model. I use python code to find the optimal points ($S$, and $p$).
 
 I searched several articles to find the explicit demonstration of the resolution of the optimal law enforcement model like Garoupa's but I got tired. Therefore, I tried to find ways to solve this puzzle myself (see file "Solving_Optimal_law_enforcement_Model.pdf").  So, the idea is to compare the solution I found by solving manually the model, and the computation on python. I ended up with the same result. It's amazing.
 
